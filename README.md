@@ -1,4 +1,4 @@
-# YABO-AR
+# SOCCER-AR
 
 AR sports, all kinds of balls, can display a variety of 3D ball models anywhere.
 Easy to operate and enjoy the fun of all kinds of balls.
